@@ -1,0 +1,6 @@
+bs4
+fake_headers
+json
+requests
+time
+typing
